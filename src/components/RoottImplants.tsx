@@ -47,15 +47,6 @@ const RoottImplants: React.FC = () => {
         "Reduce surgery and healing time"
       ]
     },
-    {
-      id: 'roott-c',
-      code: 'C',
-      name: 'ROOTT C',
-      color: 'bg-yellow-500',
-      image: 'https://trate.com/wp-content/uploads/2017/10/C3018.02.png',
-      description: t('roottImplants.descriptions.C'),
-      features: t('roottImplants.features.C', { returnObjects: true })
-    }
   ];
 
   return (
