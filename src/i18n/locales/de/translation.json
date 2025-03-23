@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über uns",
+    "technology": "Technologie",
+    "contact": "Kontakt",
+    "requestQuote": "Angebot anfordern",
+    "dentalImplants": "Zahnimplantate",
+    "surgicalInstruments": "Chirurgische Instrumente",
+    "boneGraft": "Knochenersatzmaterialien",
+    "legal": "Rechtliches",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "cookiePolicy": "Cookie-Richtlinie",
+    "compliance": "Compliance",
+    "roottImplants": "Roott Implantate",
+    "education": "Fortbildung",
+    "partners": "Partner"
+  },
+  "hero": {
+    "title": "Innovative Zahnmedizinische Lösungen für Fachleute",
+    "subtitle": "Farmamedical ist Ihr zuverlässiger Vertriebspartner für hochwertige Zahnmedizinprodukte, spezialisiert auf Roott-Implantate und Kerox-Produkte. Optimieren Sie Ihre Praxis mit erstklassigen Lösungen.",
+    "exploreProducts": "Produkte entdecken",
+    "contactSales": "Vertriebsteam kontaktieren",
+    "testimonial": {
+      "quote": "Farmamedicals Roott-Implantate liefern hervorragende Ergebnisse für meine Patienten.",
+      "name": "Dr. Robert Chen",
+      "title": "Implantologe"
+    }
+  },
+  "products": {
+    "title": "Unsere Dentallösungen",
+    "subtitle": "Entdecken Sie unsere Auswahl an hochwertigen Dentalprodukten",
+    "viewCatalog": "Vollständigen Katalog ansehen",
+    "productDetails": "Produktdetails",
+    "roottImplant": {
+      "title": "Roott Implantat-System",
+      "description": "Hochwertiges Implantatsystem mit fortschrittlichen Funktionen für optimale Ergebnisse.",
+      "features": [
+        "Innovatives Design",
+        "Erstklassige Qualität",
+        "Mehrere Optionen",
+        "Zuverlässige Leistung"
+      ]
+    },
+    "graftMaterial": {
+      "title": "Knochenersatzmaterial",
+      "description": "Hochwertiges Knochenersatzmaterial für zahnärztliche Eingriffe.",
+      "features": [
+        "Premium-Eigenschaften",
+        "Optimales Profil",
+        "Einfaches Handling",
+        "Sterile Verpackung"
+      ]
+    },
+    "surgicalKit": {
+      "title": "Chirurgie-Set",
+      "description": "Komplettes chirurgisches Toolkit für präzise Implantatplatzierung.",
+      "features": [
+        "Ergonomisches Design",
+        "Farbcodierte Komponenten",
+        "Sterilisierbares Gehäuse",
+        "Kompatibel mit Roott-Implantaten"
+      ]
+    }
+  },
+  "roottImplants": {
+    "heroSubtitle": "Das fortschrittliche Implantatsystem mit außergewöhnlicher Oberflächenreinheit und innovativem Design",
+    "overviewTitle": "Über das ROOTT-Implantatsystem",
+    "overviewDescription": "ROOTT ist ein umfassendes Implantatsystem, das vielseitige Lösungen für alle klinischen Fälle bietet. Mit einer einzigartigen Oberflächenbehandlung und außergewöhnlicher Reinheit liefern ROOTT-Implantate vorhersehbare und zuverlässige Ergebnisse.",
+    "typesTitle": "ROOTT-Implantattypen",
+    "typesDescription": "Das ROOTT-System umfasst verschiedene Implantattypen, die für spezifische klinische Anforderungen und anatomische Situationen entwickelt wurden.",
+    "descriptions": {
+      "R": "Einteiliges Implantat mit hoher Primärstabilität und Potential für Sofortbelastung. Ideal für Einzelzahnrestaurationen.",
+      "S": "Implantat mit schmalem Durchmesser für begrenzte Räume und reduziertes Knochenvolumen. Perfekt für Frontzahnersatz.",
+      "M": "Zweiteiliges Implantatsystem mit mehreren Verbindungsoptionen, geeignet für verschiedene restaurative Anforderungen.",
+      "P": "Spezialisiert auf sofortige Platzierung nach Extraktion mit einem progressiven Gewindedesign.",
+      "C": "Entwickelt für herausfordernde Situationen mit reduzierter Knochenhöhe, mit kurzem Körper und breitem Durchmesser.",
+      "BS": "Basalimplantat für fortgeschrittene Fälle mit minimalem Knochenvolumen in den posterioren Regionen.",
+      "B": "Vielseitige Basalimplantat-Option mit ausgezeichneter Primärstabilität und Lastverteilung."
+    },
+    "features": {
+      "R": [
+        "Einteiliges Design für vereinfachten Workflow",
+        "Ausgezeichnete Primärstabilität",
+        "Sofortbelastungsfähigkeit",
+        "Transgingivaler Hals für optimale Gewebeintegration"
+      ],
+      "S": [
+        "Schmaler Durchmesser (3,0 mm)",
+        "Geeignet für begrenzte Räume",
+        "Reduzierte Invasivität",
+        "Optimal für anteriore Restaurationen"
+      ],
+      "M": [
+        "Zweiteiliges System mit interner Verbindung",
+        "Platform-Switching-Möglichkeit",
+        "Verschiedene prothetische Optionen",
+        "Geeignet für mehrere klinische Szenarien"
+      ],
+      "P": [
+        "Konzipiert für Extraktionsalveolen",
+        "Progressives Gewindedesign",
+        "Verbesserte Initialstabilität",
+        "Optimiert für Sofortversorgungsprotokolle"
+      ],
+      "C": [
+        "Kurzer Implantatkörper (5-8 mm)",
+        "Breiter Durchmesser für Lastverteilung",
+        "Ideal für reduzierte Knochenhöhe",
+        "Minimiert Notwendigkeit der Knochenaugmentation"
+      ],
+      "BS": [
+        "Basalimplantat-Design",
+        "Nutzt kortikalen Knochen für Stabilität",
+        "Geeignet für fortgeschrittene Atrophiefälle",
+        "Ermöglicht Sofortbelastungsprotokolle"
+      ],
+      "B": [
+        "Vielseitiges basales Schraubendesign",
+        "Ausgezeichnete Stabilität bei schlechter Knochenqualität",
+        "Große Auswahl an verfügbaren Längen",
+        "Vereinfachtes chirurgisches Protokoll"
+      ]
+    },
+    "toolsDescription": "Spezialisierte Instrumente für präzise und effiziente Implantatplatzierung und Restauration.",
+    "surgicalKit": "Chirurgisches Instrumentenset",
+    "surgicalKitDescription": "Umfassendes Set von Bohrern, Schraubendrehern und Zubehör für alle ROOTT-Implantatplatzierungsverfahren.",
+    "prostheticTools": "Prothetische Instrumente",
+    "prostheticToolsDescription": "Spezialisierte Werkzeuge für Abdrucknahme, Platzierung von prothetischen Komponenten und endgültige Restauration.",
+    "qualityTitle": "Außergewöhnliche Oberflächenqualität",
+    "qualityDescription": "ROOTT-Implantate durchlaufen rigorose Qualitätstests, um höchste Standards an Reinheit und Leistung zu gewährleisten.",
+    "analysisTitle": "Wissenschaftliche Validierung",
+    "analysisDescription": "Unabhängige Studien bestätigen, dass ROOTT-Implantate eine kontaminationsfreie Oberfläche aufweisen, die eine optimale Osseointegration fördert.",
+    "manufacturingTitle": "Fortschrittlicher Herstellungsprozess",
+    "guidesTitle": "OFFENE CHIRURGISCHE FÜHRUNGEN FÜR ZAHNMEDIZINISCHE ANWENDUNGEN",
+    "guidesDescription": "Präzisionsgeführte Implantatplatzierung mit der neuesten digitalen Planungstechnologie.",
+    "certificationsTitle": "Zertifizierungen & Qualitätssicherung",
+    "certificationsDescription": "ROOTT-Implantate erfüllen die höchsten internationalen Standards für Medizinprodukte und Zahnimplantate."
+  },
+  "about": {
+    "title": "Über Farmamedical",
+    "description1": "Farmamedical vertreibt hochwertige Dentallösungen, spezialisiert auf Roott-Implantatsysteme für Zahnärzte.",
+    "description2": "Wir arbeiten mit führenden Dentallieferanten zusammen, um hochwertige Produkte zu liefern, die strengen Standards entsprechen.",
+    "qualityAssured": {
+      "title": "Qualitätsgesichert",
+      "description": "Produkte erfüllen Qualitätsstandards und Zertifizierungen."
+    },
+    "industryRecognized": {
+      "title": "Branchenweit anerkannt",
+      "description": "Vertrauenswürdig für Zahnärzte weltweit."
+    },
+    "scientificallyBacked": {
+      "title": "Wissenschaftlich fundiert",
+      "description": "Unterstützt durch Forschung und klinische Evidenz."
+    },
+    "globalPresence": {
+      "title": "Globale Präsenz",
+      "description": "Dienst für Zahnärzte in mehreren Ländern."
+    },
+    "founders": "Unsere Mitbegründer",
+    "founder1": {
+      "name": "Prof. Dr. Almir Dervišević",
+      "title": "Mitbegründer",
+      "bio": "Prof. Dr. Dervišević bringt über 20 Jahre klinische Expertise in der dentalen Implantologie mit und hat zahlreiche Forschungsarbeiten zu fortgeschrittenen Implantationstechniken veröffentlicht."
+    },
+    "founder2": {
+      "name": "Dr. Edmin Liđan",
+      "title": "Mitbegründer",
+      "bio": "Mit einem Hintergrund in Zahnmedizin und Unternehmensführung hat Dr. Liđan Farmamedical zum führenden Implantathändler in der Balkanregion aufgebaut."
+    },
+    "founder3": {
+      "name": "Dr. Amer Bukvić",
+      "title": "Mitbegründer",
+      "bio": "Dr. Bukvić leitet unsere Bildungsinitiativen und widmet sich der Ausbildung der nächsten Generation von Implantologen mit innovativen Techniken und Protokollen."
+    }
+  },
+  "technology": {
+    "title": "Fortschrittliche Technologie",
+    "subtitle": "Roott-Implantatsysteme verfügen über moderne Technologie und Design für optimale klinische Ergebnisse.",
+    "surfaceTechnology": "Fortschrittliche Oberflächentechnologie",
+    "surfaceDescription": "Verbesserte Oberfläche für bessere Ergebnisse",
+    "patientCentered": "Patientenzentrierte Innovation",
+    "patientDescription": "Konzipiert für Komfort und Erfolg",
+    "acceleratedHealing": {
+      "title": "Verbesserte Heilung",
+      "description": "Die Oberflächenbehandlung von Roott-Implantaten fördert eine schnellere Integration im Vergleich zu herkömmlichen Implantaten."
+    },
+    "researchBacked": {
+      "title": "Forschungsbasiertes Design",
+      "description": "Das Implantatdesign basiert auf umfangreicher Forschung und gewährleistet vorhersehbare Ergebnisse."
+    },
+    "biocompatible": {
+      "title": "Qualitätsmaterialien",
+      "description": "Medizinische Materialien, die für eine optimale Integration mit natürlichem Knochen formuliert sind."
+    },
+    "versatile": {
+      "title": "Vielseitiges System",
+      "description": "Anpassungsfähige Plattform für verschiedene klinische Szenarien und Anforderungen."
+    },
+    "specifications": "Technische Spezifikationen"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Unser Team ist bereit, Ihnen mit Produktinformationen und Support zu helfen.",
+    "headquarters": "Hauptsitz",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "hours": "Öffnungszeiten",
+    "customerService": "Kundenservice",
+    "technicalSupport": "Technischer Support",
+    "weekdays": "Montag - Freitag",
+    "saturday": "Samstag",
+    "sunday": "Sonntag",
+    "closed": "Geschlossen",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "company": "Praxis/Unternehmen",
+    "message": "Nachricht",
+    "sendMessage": "Nachricht senden"
+  },
+  "footer": {
+    "products": "Produkte",
+    "company": "Unternehmen",
+    "resources": "Ressourcen",
+    "resourcesItems": {
+      "education": "Fortbildung",
+      "guides": "Produktleitfäden",
+      "webinars": "Webinare",
+      "support": "Support"
+    },
+    "legal": "Rechtliches",
+    "legalItems": {
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "cookies": "Cookie-Richtlinie",
+      "compliance": "Compliance"
+    },
+    "copyright": "© 2025 Farmamedical d.o.o. Alle Rechte vorbehalten.",
+    "tagline": "Offizieller Vertrieb von Roott-Implantaten und Kerox Dental"
+  },
+  "language": {
+    "en": "Englisch",
+    "de": "Deutsch",
+    "bs": "Bosnisch"
+  },
+  "partners": {
+    "title": "Unsere strategischen Partner",
+    "subtitle": "Farmamedical arbeitet mit führenden Herstellern der Branche zusammen, um erstklassige Dentallösungen in der gesamten Balkanregion anzubieten",
+    "exclusive": "Exklusive Vertriebspartnerschaften für Dentalprodukte",
+    "exclusiveDesc": "Wir unterhalten exklusive Vertriebsbeziehungen mit Premium-Dentalherstellern und gewährleisten so Qualitätsprodukte und außergewöhnlichen Support für Zahnärzte",
+    "trate": "Trate AG - ROOTT Implantatsysteme",
+    "trateDesc": "Farmamedical ist der exklusive Vertriebspartner der ROOTT Implantatsysteme von Trate AG in Bosnien und Herzegowina, Kroatien und Serbien. Diese in der Schweiz entworfenen Implantate sind bekannt für ihre außergewöhnliche Oberflächenreinheit und ihr innovatives Design.",
+    "kerox": "Kerox Dental - Hochwertige Keramik",
+    "keroxDesc": "Als autorisierter Vertriebspartner für Kerox Dental-Produkte bietet Farmamedical hochwertige Zirkoniumdioxid-Scheiben, Keramikrohlinge und spezialisierte Materialien für Dentallabore und CAD/CAM-Systeme in der gesamten Balkanregion an",
+    "advantage": "Der Farmamedical Vertriebsvorteil",
+    "advantageDesc": "Durch unsere strategischen Partnerschaften bieten wir Zahnärzten umfassende Lösungen und Unterstützung",
+    "become": "Partner werden",
+    "becomeDesc": "Sind Sie ein Dentalhersteller, der nach Vertrieb in der Balkanregion sucht?",
+    "certifications": "Qualitätszertifizierungen",
+    "certificationsDesc": "Alle unsere Partnerprodukte erfüllen die höchsten internationalen Standards und Zertifizierungen"
+  },
+  "education": {
+    "title": "Bildungsveranstaltungen & Symposien",
+    "subtitle": "Erweitern Sie Ihr Wissen und Ihre Fähigkeiten mit unseren umfassenden Bildungsveranstaltungen mit Schwerpunkt auf Dentalimplantologie und fortschrittlichen Techniken",
+    "upcomingEvents": "Bevorstehende Veranstaltungen anzeigen",
+    "customTraining": "Maßgeschneiderte Schulung anfordern",
+    "programs": "Alle Bildungsprogramme anzeigen"
+  },
+  "events": {
+    "title": "Bildungsveranstaltungen & Symposien",
+    "subtitle": "Erweitern Sie Ihr Wissen und Ihre Fähigkeiten mit unseren umfassenden Bildungsveranstaltungen mit Schwerpunkt auf Dentalimplantologie und fortschrittlichen Techniken.",
+    "featured": "Empfohlene Veranstaltung",
+    "featuredDesc": "Unsere herausragende Bildungsmöglichkeit",
+    "upcoming": "Kommende Veranstaltungen",
+    "upcomingDesc": "Verbessern Sie Ihre beruflichen Fähigkeiten mit unseren spezialisierten Bildungsprogrammen",
+    "speakers": "Hauptreferenten:",
+    "programs": "Unsere Bildungsprogramme",
+    "programsDesc": "Wir bieten verschiedene Formate, um Ihren beruflichen Entwicklungsbedürfnissen gerecht zu werden",
+    "workshops": "Workshops",
+    "workshopsDesc": "Praktische Sitzungen in kleinen Gruppen, die sich auf praktische Fähigkeiten und Techniken konzentrieren. Perfekt für das Beherrschen spezifischer Verfahren.",
+    "symposiums": "Symposien",
+    "symposiumsDesc": "Größere Veranstaltungen mit Expertenpräsentationen, Podiumsdiskussionen und Networking-Möglichkeiten. Ideal, um mit Branchentrends auf dem Laufenden zu bleiben.",
+    "clinical": "Klinische Schulung",
+    "clinicalDesc": "Mehrtägige Intensivprogramme mit umfassendem theoretischem Wissen und betreuter praktischer Anwendung an Patienten.",
+    "custom": "Maßgeschneiderte Schulung anfordern",
+    "customDesc": "Wir bieten maßgeschneiderte Bildungsprogramme, die auf die spezifischen Bedürfnisse Ihres Teams zugeschnitten sind. Kontaktieren Sie uns, um Ihre Anforderungen und Ziele zu besprechen.",
+    "contact": "Kontaktinformationen",
+    "contactDesc": "Für Anfragen zu kommenden Veranstaltungen oder um maßgeschneiderte Schulungen anzufordern:"
+  },
+  "roott": {
+    "title": "ROOTT Zahnimplantate",
+    "subtitle": "ROOTT Implantate bietet die größte Vielfalt an Zahnimplantaten unter den wichtigsten Implantatanbietern. In Zusammenarbeit mit führenden Dentalexperten hat ROOTT seine Implantatpalette erweitert, um Lösungen anzubieten, die potenziell Knochentransplantationen vermeiden können",
+    "completeSystem": "Das vollständige Implantatsystem",
+    "completeSystemDesc": "ROOTT bietet einteilige Implantate mit einem innovativen 15-Grad biegbaren Hals. Die zusätzliche Flexibilität hilft Ärzten, die Positionierung zu verbessern, um eine Parallele zum Kamm und eine Verankerung im atrophierten Knochen zu schaffen. Diese Implantate bieten Lösungen, die ohne vorbereitende Knochenrestaurationsarbeiten möglicherweise nicht möglich gewesen wären",
+    "perfectFit": "Perfekte Passform, keine Bewegung",
+    "perfectFitDesc": "ROOTT-Implantate sind so konzipiert, dass sie eine außergewöhnliche Primärstabilität mit engen Toleranzen bieten, die gewährleisten, dass es keinen Spalt und keine Bewegung gibt, was zu einer besseren Integration und langfristigem Erfolg führt",
+    "coldWeld": "Cold Weld-Technologie",
+    "coldWeldDesc": "Die innovative Cold Weld-Verbindung in ROOTT-Implantaten schafft eine sichere, bakterienfreie Abdichtung zwischen Implantat und Abutment, reduziert das Risiko einer Periimplantitis und gewährleistet langfristige Stabilität",
+    "multiUnit": "ROOTT-IMPLANTAT-System: Eine Plattform für mehrere Einheiten",
+    "practitioners": "ROOTT – Die beste Wahl für Zahnärzte",
+    "practitionersDesc": "Das ROOTT-Implantatsystem wurde mit dem Zahnarzt im Vordergrund des Designs entwickelt. ROOTT hat versucht, die Implantologie zu vereinfachen, die primäre Verankerung zu verbessern, die Heilungszeiten zu reduzieren und Zahnärzten Zeit zu sparen",
+    "toolbox": "Toolbox-Design",
+    "toolboxDesc": "Die Toolbox wurde sorgfältig entwickelt, um Zahnärzten zu helfen, einer einfachen schrittweisen grafischen Anleitung zu folgen. Durch die Befolgung der Schritte sollten Zahnärzte eine starke Verankerung erreichen und das Risiko eines Versagens senken",
+    "compatibility": "Kompatibilität",
+    "compatibilityDesc": "Die Werkzeuge folgen einer visuellen Anleitung, die mit verschiedenen Implantattypen abgestimmt ist, und bieten kompatible Werkzeuge für die Mehrheit der Implantatlinie, was zu weniger Werkzeugen führt",
+    "colorCoding": "Farbkodierungssystem",
+    "colorCodingDesc": "Das ROOTT-Farbkodierungssystem versteht die Herausforderungen der Arbeit mit zahlreichen Komponenten in der Implantologie. Die sorgfältig farbkodierten Zubehörteile erleichtern es Zahnärzten, mit der richtigen Komponente zu arbeiten",
+    "technology": "ROOTT-Implantattechnologie",
+    "technologyDesc": "Entdecken Sie die innovativen Funktionen und Vorteile der ROOTT-Implantatsysteme",
+    "primaryStability": "Ausgezeichnete Primärstabilität",
+    "primaryStabilityDesc": "ROOTT-Implantate sind darauf ausgelegt, eine ausgezeichnete Primärstabilität für vorhersehbare Ergebnisse zu erzielen",
+    "conicalConnection": "Konische Verbindung",
+    "conicalConnectionDesc": "Die tiefe konische Verbindung gewährleistet eine sichere, bakterienfreie Abdichtung zwischen Implantat und Abutment",
+    "extraThin": "Extra dünn und stark",
+    "extraThinDesc": "ROOTT-Implantate verfügen über eine optimierte Wandstärke für Festigkeit ohne Kompromisse beim Design",
+    "narrowRidge": "Ideal für schmalen Kamm",
+    "narrowRidgeDesc": "Speziell entwickelt für anspruchsvolle Fälle mit begrenzter Knochenbreite in schmalen Kammbereichen",
+    "screwRetained": "Vollständig verschraubte Prothetik",
+    "screwRetainedDesc": "Mehrere verschraubte prothetische Optionen für sichere und entnehmbare Restaurationen",
+    "multifunctional": "Multifunktionales Design",
+    "multifunctionalDesc": "Vielseitige Komponenten, die sich an verschiedene klinische Szenarien und Anforderungen anpassen",
+    "solutions": "Umfassende Implantatlösungen",
+    "solutionsDesc": "ROOTT bietet eine vollständige Palette von Implantattypen, die für spezifische klinische Anforderungen und anatomische Situationen entwickelt wurden",
+    "tools": "ROOTT-Chirurgiewerkzeuge",
+    "toolsDesc": "Präzisionsgefertigte chirurgische Werkzeuge für eine effiziente und vorhersehbare Implantatplatzierung",
+    "kit": "TRS-S-Toolkit",
+    "kitDesc": "Alle Werkzeuge haben ihren eigenen reservierten Platz in einer ordentlichen und aufgeräumten Toolbox. Das gut organisierte Design stellt sicher, dass Zahnärzte die erforderlichen Instrumente während chirurgischer Eingriffe leicht identifizieren und darauf zugreifen können",
+    "healingAbutments": "Heilungsabutments",
+    "healingAbutmentsDesc": "ROOTT bietet eine umfassende Palette von Heilungsabutments in verschiedenen Höhen und Durchmessern, um die Weichgewebskonturierung zu optimieren und hervorragende ästhetische Ergebnisse für jeden einzelnen Fall zu gewährleisten",
+    "manufacturing": "Vertrauen in die TRATE-Fertigung",
+    "manufacturingDesc": "Der ROOTT-Marke für Zahnimplantate wird von TRATE hergestellt, das ein internationales Team erfahrener, aufgeschlossener Fachleute hat, die lieben, was sie tun, und ihr Wissen anwenden, um sichere, hochwertige Produkte zu schaffen",
+    "qms": "Qualitätsmanagementsystem",
+    "qmsDesc": "TRATE arbeitet mit einem auf der EU MDR 2017/745 basierenden Qualitätsmanagementsystem. Die Produkte sind gemäß den Bestimmungen der Europäischen Medizinprodukteverordnung 2017/745 zertifiziert",
+    "rnd": "Forschung & Entwicklung",
+    "rndDesc": "Die Forschungs- und Entwicklungsabteilung von TRATE arbeitet eng mit hoch qualifizierten Spezialisten zusammen, um sicherzustellen, dass ROOTT-Implantate gut konzipiert sind und Zahnärzten die Gewissheit geben, mit einer erstaunlichen Produktpalette zu arbeiten",
+    "brochure": "Ausführliche Produktinformationen erhalten",
+    "brochureDesc": "Laden Sie unsere umfassende Produktbroschüre für vollständige Informationen über das ROOTT-Implantatsystem herunter",
+    "certification": "Zertifizierungen & Qualitätssicherung",
+    "certificationDesc": "ROOTT-Implantate erfüllen die höchsten internationalen Standards für Medizinprodukte und Zahnimplantate",
+    "contact": "Kontaktieren Sie unser ROOTT-Spezialistenteam",
+    "contactDesc": "Erhalten Sie Expertenberatung zu ROOTT-Implantatsystemen und erfahren Sie, wie sie Ihre klinischen Ergebnisse und Praxiseffizienz verbessern können"
+  },
+  "kerox": {
+    "title": "Kerox Dental",
+    "subtitle": "Premium-Zirkoniumdioxidmaterialien und -lösungen für Dentallabore und CAD/CAM-Fräszentren",
+    "quote": "Setzt den Standard für hochwertige Zirkoniumdioxidmaterialien für die Zahnmedizin mit außergewöhnlicher Ästhetik und Haltbarkeit.",
+    "about": "Über Kerox Dental",
+    "aboutDesc": "Kerox Dental wurde 2002 gegründet und ist zu einem führenden Hersteller hochwertiger Dentalmaterialien geworden, der sich auf Zirkoniumdioxidlösungen für CAD/CAM-Anwendungen spezialisiert hat.",
+    "excellence": "Exzellenz in Dentalkeramik",
+    "excellenceDesc": "Kerox Dental mit Sitz in Ungarn hat sich als Innovator auf dem Gebiet der Dentalkeramik etabliert. Ihre hochmoderne Fertigungsanlage produziert hochwertige Zirkoniumdioxidmaterialien, die an Dentallabore weltweit vertrieben werden.",
+    "productLine": "KEROX Zircostar® Produktlinie",
+    "productLineDesc": "Premium-Zirkoniumdioxidlösungen für optimale Ästhetik und Leistung",
+    "multilayer": "Mehrschichtige Rohlinge",
+    "monolithic": "Monolithische Rohlinge",
+    "science": "WISSENSCHAFT UND TECHNOLOGIE HINTER ZIRCOSTAR®",
+    "scienceDesc": "Verständnis der fortschrittlichen Materialwissenschaft, die Kerox-Zirkoniumdioxid außergewöhnlich macht",
+    "basics": "Zurück zu wissenschaftlichen Grundlagen",
+    "quality": "Qualitätsmanagement",
+    "certifications": "Kerox-Zertifizierungen",
+    "certificationsDesc": "Erfüllung der höchsten internationalen Standards für Qualität und Sicherheit",
+    "advanced": "Fortschrittliche Fertigung",
+    "advancedDesc": "Kerox Dentals hochmoderne Fertigungsanlage in Ungarn nutzt die neueste Technologie und Qualitätskontrollprozesse, um konsistente, hochwertige Zirkoniumdioxidprodukte zu gewährleisten.",
+    "support": "Technischer Support & Schulung",
+    "supportDesc": "Wir bieten umfassenden Support für Dentallabore, die mit Kerox-Materialien arbeiten",
+    "request": "Kerox-Produktinformationen anfordern",
+    "requestDesc": "Kontaktieren Sie Farmamedical für detaillierte Informationen zu Kerox-Zirkoniumdioxidprodukten, technischen Spezifikationen und Preisen."
+  },
+  "eventDetails": {
+    "back": "Zurück zu Veranstaltungen",
+    "about": "Details ansehen",
+    "topics": "Wichtige Themen",
+    "schedule": "Veranstaltungsplan",
+    "speakers": "Vortragende Referenten",
+    "options": "Anmeldeoptionen",
+    "registerNow": "Jetzt anmelden",
+    "share": "Diese Veranstaltung teilen",
+    "location": "Veranstaltungsort",
+    "moreInfo": "Benötigen Sie weitere Informationen?",
+    "moreInfoDesc": "Laden Sie die vollständige Veranstaltungsbroschüre mit detaillierten Informationen zu Referenten, Sitzungen, Veranstaltungsort und Unterkünften herunter.",
+    "download": "Veranstaltungsbroschüre herunterladen",
+    "questions": "Haben Sie Fragen?",
+    "contact": "Kontaktieren Sie unseren Bildungskoordinator für weitere Informationen"
+  }
+}

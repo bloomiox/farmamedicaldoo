@@ -1,0 +1,451 @@
+{
+  "nav": {
+    "home": "Početna",
+    "products": "Proizvodi",
+    "about": "O nama",
+    "technology": "Tehnologija",
+    "contact": "Kontakt",
+    "requestQuote": "Zatražite ponudu",
+    "dentalImplants": "Dentalni implantati",
+    "surgicalInstruments": "Hirurški instrumenti",
+    "boneGraft": "Materijali za koštane graftove",
+    "legal": "Pravno",
+    "privacyPolicy": "Politika privatnosti",
+    "termsOfService": "Uslovi korištenja",
+    "cookiePolicy": "Politika kolačića",
+    "compliance": "Usklađenost",
+    "roottImplants": "Roott Implantati",
+    "education": "Edukacija",
+    "partners": "Partneri"
+  },
+  "hero": {
+    "title": "Inovativna stomatološka rješenja za profesionalce",
+    "subtitle": "Farmamedical je distributer visokokvalitetne stomatološke opreme, specijalizirani za Roott implantate i Kerox proizvode. Unaprijedite svoju ordinaciju vrhunskim rješenjima.",
+    "exploreProducts": "Istražite proizvode",
+    "contactSales": "Kontaktirajte prodajni tim",
+    "testimonial": {
+      "quote": "Roott implantati kompanije Farmamedical pružaju izvrsne rezultate za moje pacijente.",
+      "name": "Dr. Robert Chen",
+      "title": "Implantolog"
+    }
+  },
+  "products": {
+    "title": "Naša stomatološka rješenja",
+    "subtitle": "Otkrijte našu selekciju visokokvalitetnih stomatoloških proizvoda",
+    "viewCatalog": "Pogledajte cijeli katalog",
+    "productDetails": "Detalji proizvoda",
+    "roottImplant": {
+      "title": "Roott sistem implantata",
+      "description": "Premium sistem implantata s naprednim funkcijama za optimalne rezultate.",
+      "features": [
+        "Inovativni dizajn",
+        "Vrhunski kvalitet",
+        "Višestruke opcije",
+        "Pouzdane performanse"
+      ]
+    },
+    "graftMaterial": {
+      "title": "Materijal za koštani graft",
+      "description": "Visokokvalitetni koštani supstitut za stomatološke procedure.",
+      "features": [
+        "Premium svojstva",
+        "Optimalni profil",
+        "Jednostavno rukovanje",
+        "Sterilno pakovanje"
+      ]
+    },
+    "surgicalKit": {
+      "title": "Hirurški set",
+      "description": "Kompletan hirurški komplet dizajniran za precizno postavljanje implantata.",
+      "features": [
+        "Ergonomski dizajn",
+        "Kodirane komponente u boji",
+        "Sterilizacijsko kućište",
+        "Kompatibilno s Roott implantatima"
+      ]
+    }
+  },
+  "roottImplants": {
+    "heroSubtitle": "Napredni sistem implantata s izuzetnom čistoćom površine i inovativnim dizajnom",
+    "overviewTitle": "O ROOTT sistemu implantata",
+    "overviewDescription": "ROOTT je sveobuhvatni sistem implantata koji nudi svestrana rješenja za sve kliničke slučajeve. S jedinstvenom površinskom obradom i izuzetnom čistoćom, ROOTT implantati pružaju predvidljive i pouzdane rezultate.",
+    "typesTitle": "Vrste ROOTT implantata",
+    "typesDescription": "ROOTT sistem uključuje različite vrste implantata dizajnirane za specifične kliničke zahtjeve i anatomske situacije.",
+    "descriptions": {
+      "R": "Jednodijelni implantat s visokom primarnom stabilnošću i potencijalom za imedijatno opterećenje. Idealan za pojedinačne restauracije zuba.",
+      "S": "Implantat uskog promjera za ograničene prostore i smanjeni volumen kosti. Savršen za zamjenu prednjih zuba.",
+      "M": "Dvodijelni sistem implantata s višestrukim opcijama povezivanja pogodan za različite restaurativne potrebe.",
+      "P": "Specijaliziran za imedijatnu ugradnju nakon ekstrakcije s progresivnim dizajnom navoja.",
+      "C": "Dizajniran za zahtjevne situacije sa smanjenom visinom kosti, s kratkim tijelom i širokim promjerom.",
+      "BS": "Bazalni implantat za napredne slučajeve s minimalnim volumenom kosti u stražnjim regijama.",
+      "B": "Svestrana opcija bazalnog implantata s odličnom primarnom stabilnošću i distribucijom opterećenja."
+    },
+    "features": {
+      "R": [
+        "Jednodijelni dizajn za jednostavan radni proces",
+        "Odlična primarna stabilnost",
+        "Mogućnost imedijatnog opterećenja",
+        "Transgingivalni vrat za optimalnu integraciju tkiva"
+      ],
+      "S": [
+        "Uski promjer (3.0mm)",
+        "Pogodan za ograničene prostore",
+        "Smanjena invazivnost",
+        "Optimalan za prednje restauracije"
+      ],
+      "M": [
+        "Dvodijelni sistem s unutarnjom vezom",
+        "Mogućnost platform switching-a",
+        "Različite protetske opcije",
+        "Pogodan za više kliničkih scenarija"
+      ],
+      "P": [
+        "Dizajniran za postekstrakcijske alveole",
+        "Progresivni dizajn navoja",
+        "Poboljšana inicijalna stabilnost",
+        "Optimiziran za protokole imedijatne ugradnje"
+      ],
+      "C": [
+        "Kratko tijelo implantata (5-8mm)",
+        "Široki promjer za raspodjelu opterećenja",
+        "Idealan za smanjenu visinu kosti",
+        "Minimizira potrebu za augmentacijom kosti"
+      ],
+      "BS": [
+        "Dizajn bazalnog implantata",
+        "Koristi kortikalnu kost za stabilnost",
+        "Pogodan za slučajeve napredne atrofije",
+        "Omogućuje protokole imedijatnog opterećenja"
+      ],
+      "B": [
+        "Svestrani dizajn bazalnog vijka",
+        "Odlična stabilnost u kosti loše kvalitete",
+        "Širok raspon dostupnih dužina",
+        "Pojednostavljeni kirurški protokol"
+      ]
+    },
+    "toolsDescription": "Specijalizirani instrumenti dizajnirani za preciznu i efikasnu ugradnju implantata i restauraciju.",
+    "surgicalKit": "Set hirurških instrumenata",
+    "surgicalKitDescription": "Sveobuhvatni set svrdla, odvijača i dodataka za sve procedure ugradnje ROOTT implantata.",
+    "prostheticTools": "Protetski instrumenti",
+    "prostheticToolsDescription": "Specijalizirani alati za uzimanje otisaka, postavljanje protetskih komponenti i finalnu restauraciju.",
+    "qualityTitle": "Izuzetna kvaliteta površine",
+    "qualityDescription": "ROOTT implantati prolaze rigorozne testove kvalitete kako bi se osigurali najviši standardi čistoće i performansi.",
+    "analysisTitle": "Naučna validacija",
+    "analysisDescription": "Nezavisne studije potvrđuju da ROOTT implantati imaju površinu bez kontaminacije, što pospješuje optimalnu oseointegraciju.",
+    "manufacturingTitle": "Napredni proizvodni proces",
+    "guidesTitle": "OTVORENE HIRURŠKE VODILICE ZA DENTALNE APLIKACIJE",
+    "guidesDescription": "Precizno vođeno postavljanje implantata korištenjem najnovije tehnologije digitalnog planiranja.",
+    "certificationsTitle": "Certifikati i osiguranje kvalitete",
+    "certificationsDescription": "ROOTT implantati zadovoljavaju najviše međunarodne standarde za medicinske uređaje i dentalne implantate."
+  },
+  "about": {
+    "title": "O Farmamedical-u",
+    "description1": "Farmamedical distribuira premium stomatološka rješenja, prvenstveno Roott sisteme implantata i Kerox za stomatološke stručnjake.",
+    "description2": "Sarađujemo s vodećim stomatološkim dobavljačima kako bismo isporučili visokokvalitetne proizvode koji ispunjavaju stroge standarde.",
+    "qualityAssured": {
+      "title": "Osiguran kvalitet",
+      "description": "Proizvodi ispunjavaju standarde kvalitete i certifikacije."
+    },
+    "industryRecognized": {
+      "title": "Priznati u industriji",
+      "description": "Pouzdani od stomatoloških stručnjaka širom svijeta."
+    },
+    "scientificallyBacked": {
+      "title": "Naučno podržani",
+      "description": "Podržani istraživanjem i kliničkim dokazima."
+    },
+    "globalPresence": {
+      "title": "Globalno prisustvo",
+      "description": "Služimo stomatološke stručnjake u više zemalja."
+    },
+    "founders": "Naši suosnivači",
+    "founder1": {
+      "name": "Prof. Dr. Almir Dervišević",
+      "title": "Suosnivač",
+      "bio": "Prof. Dr. Dervišević donosi preko 20 godina kliničkog iskustva u dentalnoj implantologiji i objavio je brojne istraživačke radove o naprednim tehnikama implantacije."
+    },
+    "founder2": {
+      "name": "Dr. Edmin Liđan",
+      "title": "Suosnivač",
+      "bio": "S iskustvom u stomatologiji i poslovnom upravljanju, Dr. Liđan je izgradio jednu od vodećih stomatoloških ordinacija i vodećeg stručnjaka dentalnih implantata u USK."
+    },
+    "founder3": {
+      "name": "Dr. Amer Bukvić",
+      "title": "Suosnivač",
+      "bio": "Dr. Bukvić vodi naše edukativne inicijative i posvećen je obučavanju nove generacije implantologa inovativnim tehnikama i protokolima."
+    }
+  },
+  "technology": {
+    "title": "Napredna tehnologija",
+    "subtitle": "Roott sistemi implantata karakterišu moderna tehnologija i dizajn za optimalne kliničke rezultate.",
+    "surfaceTechnology": "Napredna tehnologija površine",
+    "surfaceDescription": "Poboljšana površina za bolje rezultate",
+    "patientCentered": "Inovacija usmjerena na pacijenta",
+    "patientDescription": "Dizajnirano za udobnost i uspjeh",
+    "acceleratedHealing": {
+      "title": "Poboljšano zacjeljivanje",
+      "description": "Površinski tretman Roott implantata promovira bržu integraciju u poređenju s konvencionalnim implantatima."
+    },
+    "researchBacked": {
+      "title": "Dizajn zasnovan na istraživanju",
+      "description": "Dizajn implantata temelji se na opsežnom istraživanju, osiguravajući predvidljive rezultate."
+    },
+    "biocompatible": {
+      "title": "Kvalitetni materijali",
+      "description": "Medicinski materijali formulirani za optimalnu integraciju s prirodnom kosti."
+    },
+    "versatile": {
+      "title": "Svestrani sistem",
+      "description": "Prilagodljiva platforma za različite kliničke scenarije i zahtjeve."
+    },
+    "specifications": "Tehničke specifikacije"
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "subtitle": "Naš tim je spreman pomoći vam s informacijama o proizvodima i podrškom.",
+    "headquarters": "Sjedište",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "hours": "Radno vrijeme",
+    "customerService": "Korisnička podrška",
+    "technicalSupport": "Tehnička podrška",
+    "weekdays": "Ponedjeljak - Petak",
+    "saturday": "Subota",
+    "sunday": "Nedjelja",
+    "closed": "Zatvoreno",
+    "firstName": "Ime",
+    "lastName": "Prezime",
+    "company": "Praksa/Kompanija",
+    "message": "Poruka",
+    "sendMessage": "Pošalji poruku"
+  },
+  "footer": {
+    "products": "Proizvodi",
+    "company": "Kompanija",
+    "resources": "Resursi",
+    "resourcesItems": {
+      "education": "Edukacija",
+      "guides": "Vodiči za proizvode",
+      "webinars": "Webinari",
+      "support": "Podrška"
+    },
+    "legal": "Pravno",
+    "legalItems": {
+      "privacy": "Politika privatnosti",
+      "terms": "Uslovi korištenja",
+      "cookies": "Politika kolačića",
+      "compliance": "Usklađenost"
+    },
+    "copyright": "© 2025 Farmamedical d.o.o. Sva prava zadržana.",
+    "tagline": "Službeni distributer Roott implantata i Kerox Dental"
+  },
+  "language": {
+    "en": "Engleski",
+    "de": "Njemački",
+    "bs": "Bosanski"
+  },
+  "partners": {
+    "title": "Naši strateški partneri",
+    "subtitle": "Farmamedical sarađuje s vodećim proizvođačima u industriji kako bi isporučio vrhunska stomatološka rješenja širom regije Balkana",
+    "exclusive": "Ekskluzivna partnerstva za distribuciju dentalnih proizvoda",
+    "exclusiveDesc": "Održavamo ekskluzivne distribucijske odnose s premium dentalnim proizvođačima, osiguravajući kvalitetne proizvode i izvanrednu podršku za stomatološke stručnjake",
+    "trate": "Trate AG - ROOTT Sistemi implantata",
+    "trateDesc": "Farmamedical je ekskluzivni distributer ROOTT sistema implantata kompanije Trate AG u Bosni i Hercegovini, Hrvatskoj i Srbiji. Ovi implantati švicarskog dizajna poznati su po izuzetnoj čistoći površine i inovativnom dizajnu.",
+    "kerox": "Kerox Dental - Napredna keramika",
+    "keroxDesc": "Kao ovlašteni distributer za Kerox Dental proizvode, Farmamedical nudi visokokvalitetne cirkonske diskove, keramičke blokove i specijalizirane materijale za dentalne laboratorije i CAD/CAM sisteme širom regije Balkana",
+    "advantage": "Prednost Farmamedical distribucije",
+    "advantageDesc": "Kroz naša strateška partnerstva nudimo sveobuhvatna rješenja i podršku stomatološkim stručnjacima",
+    "become": "Postanite partner",
+    "becomeDesc": "Jeste li proizvođač dentalnih proizvoda koji traži distribuciju u regiji Balkana?",
+    "certifications": "Certifikati kvalitete",
+    "certificationsDesc": "Svi naši partnerski proizvodi ispunjavaju najviše međunarodne standarde i certifikacije"
+  },
+  "education": {
+    "title": "Edukativni događaji i simpoziji",
+    "subtitle": "Proširite svoje znanje i vještine uz naše sveobuhvatne edukativne događaje fokusirane na dentalnu implantologiju i napredne tehnike",
+    "upcomingEvents": "Pogledajte nadolazeće događaje",
+    "customTraining": "Zatražite prilagođenu obuku",
+    "programs": "Pogledajte sve edukativne programe"
+  },
+  "events": {
+    "title": "Edukativni događaji i simpoziji",
+    "subtitle": "Proširite svoje znanje i vještine našim sveobuhvatnim edukativnim događajima fokusiranim na dentalnu implantologiju i napredne tehnike.",
+    "featured": "Istaknuti događaj",
+    "featuredDesc": "Naša istaknuta edukativna prilika",
+    "upcoming": "Nadolazeći događaji",
+    "upcomingDesc": "Unaprijedite svoje profesionalne vještine našim specijaliziranim edukativnim programima",
+    "speakers": "Ključni predavači:",
+    "programs": "Naši edukativni programi",
+    "programsDesc": "Nudimo različite formate koji zadovoljavaju vaše potrebe profesionalnog razvoja",
+    "workshops": "Radionice",
+    "workshopsDesc": "Praktične sesije s malim grupama, fokusirane na praktične vještine i tehnike. Savršeno za ovladavanje specifičnim procedurama.",
+    "symposiums": "Simpoziji",
+    "symposiumsDesc": "Veći događaji s prezentacijama stručnjaka, panel diskusijama i prilikama za umrežavanje. Idealno za praćenje trendova u industriji.",
+    "clinical": "Klinička obuka",
+    "clinicalDesc": "Višednevni intenzivni programi s sveobuhvatnim teoretskim znanjem i nadziranom praktičnom primjenom na pacijentima.",
+    "custom": "Zatražite prilagođenu obuku",
+    "customDesc": "Nudimo prilagođene edukativne programe prilagođene specifičnim potrebama vašeg tima. Kontaktirajte nas da razgovaramo o vašim zahtjevima i ciljevima.",
+    "contact": "Kontakt informacije",
+    "contactDesc": "Za upite o nadolazećim događajima ili za zahtjev za prilagođenu obuku:"
+  },
+  "roott": {
+    "title": "ROOTT dentalni implantati",
+    "subtitle": "ROOTT implantati nude najveću raznolikost dentalnih implantata među glavnim dobavljačima dentalnih implantata. Radeći s vodećom zajednicom dentalnih stručnjaka, ROOTT je proširio svoj asortiman implantata kako bi ponudio rješenja koja potencijalno izbjegavaju koštani graft",
+    "completeSystem": "Kompletan sistem implantata",
+    "completeSystemDesc": "ROOTT nudi jednodijelne implantate s inovativnim vratom koji se može saviti za 15 stupnjeva. Dodatna fleksibilnost pomaže kliničarima poboljšati pozicioniranje za stvaranje paralelnosti s grebenom i sidrenje u atrofičnoj kosti. Ovi implantati pružaju rješenja koja možda ne bi bila moguća bez pripremnih radova na obnovi kosti",
+    "perfectFit": "Savršeno pristajanje, bez pomicanja",
+    "perfectFitDesc": "ROOTT implantati dizajnirani su za pružanje izvanredne primarne stabilnosti s uskim tolerancijama koje osiguravaju da nema praznina i kretanja, što rezultira boljom integracijom i dugoročnim uspjehom",
+    "coldWeld": "Tehnologija hladnog zavarivanja",
+    "coldWeldDesc": "Inovativna veza hladnog zavarivanja u ROOTT implantatima stvara siguran, bakterijski neprobojan spoj između implantata i abatmenta, smanjujući rizik od periimplantitisa i osiguravajući dugoročnu stabilnost",
+    "multiUnit": "ROOTT IMPLANTAT sistem: Jedna platforma za više jedinica",
+    "practitioners": "ROOTT – Najbolji izbor za praktičare",
+    "practitionersDesc": "ROOTT sustav implantata dizajniran je s praktičarom u prvom planu dizajna. ROOTT je nastojao pojednostaviti implantologiju, poboljšati primarno sidrenje, smanjiti vrijeme zacjeljivanja i uštedjeti vrijeme dentalnim praktičarima",
+    "toolbox": "Dizajn kompleta alata",
+    "toolboxDesc": "Komplet alata pažljivo je dizajniran kako bi pomogao praktičarima slijediti jednostavan grafički vodič korak po korak. Slijedeći korake, praktičari bi trebali postići jako sidrenje i smanjiti rizik od neuspjeha",
+    "compatibility": "Kompatibilnost",
+    "compatibilityDesc": "Alati slijede vizualni vodič usklađen s različitim vrstama implantata, pružajući kompatibilan alat za većinu asortimana implantata, što dovodi do manjeg broja alata",
+    "colorCoding": "Sustav označavanja bojama",
+    "colorCodingDesc": "ROOTT sustav označavanja bojama razumije izazove rada s brojnim komponentama u implantologiji. Pažljivo označeni dodaci u boji olakšavaju praktičarima osigurati da rade s ispravnom komponentom",
+    "technology": "ROOTT tehnologija implantata",
+    "technologyDesc": "Istražite inovativne značajke i prednosti ROOTT sustava implantata",
+    "primaryStability": "Izvrsna primarna stabilnost",
+    "primaryStabilityDesc": "ROOTT implantati dizajnirani su za postizanje izvrsne primarne stabilnosti za predvidljive rezultate",
+    "conicalConnection": "Konična veza",
+    "conicalConnectionDesc": "Duboka konična veza osigurava siguran, bakterijski neprobojan spoj između implantata i abatmenta",
+    "extraThin": "Ekstra tanki i jaki",
+    "extraThinDesc": "ROOTT implantati imaju optimiziranu debljinu stijenke za čvrstoću bez kompromisa u dizajnu",
+    "narrowRidge": "Idealno za uski greben",
+    "narrowRidgeDesc": "Posebno dizajnirano za zahtjevne slučajeve s ograničenom širinom kosti u područjima uskog grebena",
+    "screwRetained": "Potpuno vijkom pričvršćena protetika",
+    "screwRetainedDesc": "Višestruke opcije vijkom pričvršćene protetike za sigurne i povrative restauracije",
+    "multifunctional": "Multifunkcionalni dizajn",
+    "multifunctionalDesc": "Svestrane komponente koje se prilagođavaju različitim kliničkim scenarijima i zahtjevima",
+    "solutions": "Sveobuhvatna implantološka rješenja",
+    "solutionsDesc": "ROOTT nudi kompletan raspon vrsta implantata dizajniranih za specifične kliničke zahtjeve i anatomske situacije",
+    "tools": "ROOTT kirurški alati",
+    "toolsDesc": "Precizno izrađeni kirurški alati dizajnirani za učinkovito i predvidljivo postavljanje implantata",
+    "kit": "TRS-S komplet alata",
+    "kitDesc": "Svi alati imaju svoje rezervirano mjesto u urednoj i organiziranoj kutiji za alate. Dobro organizirani dizajn osigurava da praktičari mogu lako identificirati i pristupiti potrebnim instrumentima tijekom kirurških zahvata",
+    "healingAbutments": "Abatmenti za zacjeljivanje",
+    "healingAbutmentsDesc": "ROOTT nudi sveobuhvatan raspon abatmenta za zacjeljivanje u različitim visinama i promjerima za optimizaciju oblikovanja mekog tkiva i osiguravanje izvrsnih estetskih rezultata za svaki pojedinačni slučaj",
+    "manufacturing": "Povjerenje u TRATE proizvodnju",
+    "manufacturingDesc": "ROOTT brend dentalnih implantata proizvodi TRATE, koji ima međunarodni tim iskusnih, otvorenih profesionalaca koji vole ono što rade i primjenjuju svoje znanje za stvaranje sigurnih visokokvalitetnih proizvoda",
+    "qms": "Sistem upravljanja kvalitetom",
+    "qmsDesc": "TRATE posluje prema sistemu upravljanja kvalitetom baziranom na EU MDR 2017/745. Proizvodi su certificirani u skladu s odredbama Europske uredbe o medicinskim proizvodima 2017/745",
+    "rnd": "Istraživanje i razvoj",
+    "rndDesc": "TRATE odjel za istraživanje i razvoj usko surađuje s visokokvalificiranim stručnjacima kako bi osigurao da su ROOTT implantati dobro dizajnirani, pružajući praktičarima uvjerenje da rade s nevjerojatnim rasponom proizvoda",
+    "brochure": "Dobijte detaljne informacije o proizvodu",
+    "brochureDesc": "Preuzmite našu sveobuhvatnu brošuru proizvoda za potpune informacije o ROOTT sustavu implantata",
+    "certification": "Certifikati i osiguranje kvalitete",
+    "certificationDesc": "ROOTT implantati zadovoljavaju najviše međunarodne standarde za medicinske uređaje i dentalne implantate",
+    "contact": "Kontaktirajte naš ROOTT stručni tim",
+    "contactDesc": "Dobijte stručne savjete o ROOTT sustavima implantata i saznajte kako mogu poboljšati vaše kliničke rezultate i učinkovitost prakse"
+  },
+  "kerox": {
+    "title": "Kerox Dental",
+    "subtitle": "Premium materijali i rješenja od cirkonija za dentalne laboratorije i CAD/CAM centre za frezanje",
+    "quote": "Postavlja standard za visokokvalitetne dentalne materijale od cirkonija s izvanrednom estetikom i izdržljivošću.",
+    "about": "O Kerox Dental",
+    "aboutDesc": "Osnovana 2002. godine, Kerox Dental postao je vodeći proizvođač visokokvalitetnih dentalnih materijala, specijaliziran za cirkonijeva rješenja za CAD/CAM aplikacije.",
+    "excellence": "Izvrsnost u dentalnoj keramici",
+    "excellenceDesc": "Sa sjedištem u Mađarskoj, Kerox Dental etablirao se kao inovator u području dentalne keramike. Njihovo najsuvremenije proizvodno postrojenje proizvodi premium materijale od cirkonija koji se distribuiraju dentalnim laboratorijima širom svijeta.",
+    "productLine": "KEROX Zircostar® linija proizvoda",
+    "productLineDesc": "Premium cirkonijeva rješenja dizajnirana za optimalnu estetiku i performanse",
+    "multilayer": "Višeslojni blokovi",
+    "monolithic": "Monolitni blokovi",
+    "science": "NAUKA I TEHNOLOGIJA IZA ZIRCOSTAR®",
+    "scienceDesc": "Razumijevanje napredne nauke o materijalima koja Kerox cirkonij čini izuzetnim",
+    "basics": "Povratak na naučne osnove",
+    "quality": "Upravljanje kvalitetom",
+    "certifications": "Kerox certifikati",
+    "certificationsDesc": "Ispunjavanje najviših međunarodnih standarda za kvalitetu i sigurnost",
+    "advanced": "Napredna proizvodnja",
+    "advancedDesc": "Najsuvremenije proizvodno postrojenje Kerox Dental u Mađarskoj koristi najnoviju tehnologiju i procese kontrole kvalitete kako bi osiguralo dosljedne, visokokvalitetne proizvode od cirkonija.",
+    "support": "Tehnička podrška i edukacija",
+    "supportDesc": "Pružamo sveobuhvatnu podršku za dentalne laboratorije koji rade s Kerox materijalima",
+    "request": "Zatražite informacije o Kerox proizvodima",
+    "requestDesc": "Kontaktirajte Farmamedical za detaljne informacije o Kerox cirkonijevim proizvodima, tehničkim specifikacijama i cijenama."
+  },
+  "eventDetails": {
+    "back": "Povratak na događaje",
+    "about": "Pogledajte detalje",
+    "topics": "Ključne teme",
+    "schedule": "Raspored događaja",
+    "speakers": "Istaknuti predavači",
+    "options": "Opcije registracije",
+    "registerNow": "Registrirajte se sada",
+    "share": "Podijelite ovaj događaj",
+    "location": "Lokacija događaja",
+    "moreInfo": "Trebate više informacija?",
+    "moreInfoDesc": "Preuzmite kompletnu brošuru događaja s detaljnim informacijama o predavačima, sesijama, mjestu održavanja i smještaju.",
+    "download": "Preuzmite brošuru događaja",
+    "questions": "Imate pitanja?",
+    "contact": "Kontaktirajte našeg koordinatora za edukaciju za više informacija"
+  },
+  "partnersFeatures": {
+    "roottFeatures": [
+      "Švicarski kvalitet dentalnih implantata",
+      "Sveobuhvatne linije implantata",
+      "Napredna tehnologija površine",
+      "Ekskluzivna regionalna distribucija"
+    ],
+    "keroxFeatures": [
+      "Premium cirkonijevi materijali",
+      "CAD/CAM rješenja",
+      "Širok raspon nijansi i translucentnosti",
+      "Tehnička podrška za laboratorije"
+    ],
+    "learnMore": "Saznajte više o ROOTT implantatima",
+    "explore": "Istražite Kerox proizvode",
+    "regionalExpertise": "Regionalna stručnost",
+    "regionalDesc": "Opsežno poznavanje lokalnih tržišta i regulatornih zahtjeva širom regije Balkana.",
+    "technicalSupport": "Tehnička podrška",
+    "technicalDesc": "Posvećeni stručnjaci za proizvode koji pružaju kliničku i tehničku podršku stomatološkim stručnjacima.",
+    "qualityAssurance": "Osiguranje kvalitete",
+    "qualityDesc": "Svi proizvodi prolaze rigorozne procese kontrole kvalitete kako bi se osiguralo da ispunjavaju međunarodne standarde.",
+    "logisticsExcellence": "Izvrsnost u logistici",
+    "logisticsDesc": "Učinkovito upravljanje zalihama i sistemi isporuke za pravovremenu dostupnost proizvoda.",
+    "farmamedicalOffers": "Farmamedical nudi:",
+    "networkEstablished": "Uspostavljenu mrežu stomatoloških ordinacija i laboratorija",
+    "marketingExpertise": "Stručnost u marketingu i prodaji na regionalnim tržištima",
+    "educationalPlatform": "Edukativnu platformu za obuku o proizvodima",
+    "dedicatedCustomer": "Posvećenu korisničku službu i tehničku podršku",
+    "contactPartnership": "Kontaktirajte naš tim za partnerstvo",
+    "companyName": "Naziv kompanije",
+    "contactPerson": "Kontakt osoba",
+    "email": "Email",
+    "message": "Poruka",
+    "submitInquiry": "Pošaljite upit"
+  },
+  "educationEvents": {
+    "symposium": {
+      "title": "Međunarodni simpozij",
+      "subtitle": "Minimalno invazivne opcije liječenja u kompromitiranoj kosti",
+      "date": "04-05.04.2025",
+      "location": "Hotel Hills Sarajevo",
+      "language": "Engleski jezik",
+      "description": "Pridružite nam se na sveobuhvatnom dvodnevnom simpoziju fokusiranom na inovativne pristupe postavljanju implantata u situacijama s kompromitiranom kosti. Vodeći stručnjaci će podijeliti svoje znanje i tehnike."
+    },
+    "workshop": {
+      "title": "Radionica digitalne stomatologije",
+      "subtitle": "Napredne CAD/CAM tehnike za implantatne protetike",
+      "date": "15.05.2025",
+      "location": "Edukacijski centar Farmamedical, Novi Travnik",
+      "language": "Bosanski/Engleski jezik",
+      "description": "Praktična radionica koja istražuje najnovije tehnike u digitalnoj stomatologiji. Naučite kako integrirati CAD/CAM tehnologiju u vaš proces rada s implantatima."
+    },
+    "masterclass": {
+      "title": "Klinički majstorski tečaj",
+      "subtitle": "Upravljanje mekim tkivom oko implantata",
+      "date": "22-23.06.2025",
+      "location": "Stomatološka akademija Sarajevo",
+      "language": "Engleski jezik",
+      "description": "Ovaj majstorski tečaj fokusira se na tehnike za optimalno upravljanje mekim tkivom oko dentalnih implantata za vrhunske estetske rezultate."
+    },
+    "keyNotes": "Ključni predavači",
+    "viewDetails": "Pogledajte detalje",
+    "upcomingEvents": "Nadolazeći događaji",
+    "enhanceSkills": "Unaprijedite svoje profesionalne vještine našim specijaliziranim edukativnim programima"
+  }
+}

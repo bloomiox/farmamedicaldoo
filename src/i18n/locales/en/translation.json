@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "technology": "Technology",
+    "contact": "Contact",
+    "requestQuote": "Request a Quote",
+    "dentalImplants": "Dental Implants",
+    "surgicalInstruments": "Surgical Instruments",
+    "boneGraft": "Bone Graft Materials",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "compliance": "Compliance",
+    "roottImplants": "Roott Implants",
+    "education": "Education",
+    "partners": "Partners"
+  },
+  "hero": {
+    "title": "Innovative Dental Solutions for Professionals",
+    "subtitle": "Farmamedical provides high-quality dental equipment as a trusted distributor of Roott Implants and Kerox products. Elevate your practice with premium solutions.",
+    "exploreProducts": "Explore Products",
+    "contactSales": "Contact Sales Team",
+    "testimonial": {
+      "quote": "Farmamedical's Roott Implants deliver excellent results for my patients.",
+      "name": "Dr. Robert Chen",
+      "title": "Implantologist"
+    }
+  },
+  "products": {
+    "title": "Our Dental Solutions",
+    "subtitle": "Discover our selection of high-quality dental products",
+    "viewCatalog": "View Full Catalog",
+    "productDetails": "Product Details",
+    "roottImplant": {
+      "title": "Roott Implant System",
+      "description": "Premium implant system with advanced features for optimal results.",
+      "features": [
+        "Innovative design",
+        "Premium quality",
+        "Multiple options",
+        "Reliable performance"
+      ]
+    },
+    "graftMaterial": {
+      "title": "Bone Graft Material",
+      "description": "High-quality bone substitute material for dental procedures.",
+      "features": [
+        "Premium properties",
+        "Optimal profile",
+        "Easy handling",
+        "Sterile packaging"
+      ]
+    },
+    "surgicalKit": {
+      "title": "Surgical Kit",
+      "description": "Complete surgical toolkit designed for precise implant placement.",
+      "features": [
+        "Ergonomic design",
+        "Color-coded components",
+        "Sterilizable case",
+        "Compatible with Roott Implants"
+      ]
+    }
+  },
+  "roottImplants": {
+    "heroSubtitle": "The advanced implant system with exceptional surface purity and innovative design",
+    "overviewTitle": "About ROOTT Implant System",
+    "overviewDescription": "ROOTT is a comprehensive implant system offering versatile solutions for all clinical cases. With a unique surface treatment and exceptional purity, ROOTT implants deliver predictable and reliable results.",
+    "typesTitle": "ROOTT Implant Types",
+    "typesDescription": "The ROOTT system includes various implant types designed to meet specific clinical requirements and anatomical situations.",
+    "descriptions": {
+      "R": "One-piece implant with high primary stability and immediate loading potential. Ideal for single-tooth restorations.",
+      "S": "Narrow diameter implant for limited spaces and reduced bone volume. Perfect for anterior tooth replacements.",
+      "M": "Two-piece implant system with multiple connection options suitable for various restorative needs.",
+      "P": "Specialized for post-extraction immediate placement with a progressive thread design.",
+      "C": "Designed for challenging situations with reduced bone height, featuring a short body and wide diameter.",
+      "BS": "Basal implant for advanced cases with minimal bone volume in the posterior regions.",
+      "B": "Versatile basal implant option with excellent primary stability and load distribution."
+    },
+    "features": {
+      "R": [
+        "One-piece design for simplified workflow",
+        "Excellent primary stability",
+        "Immediate loading capability",
+        "Transgingival neck for optimal tissue integration"
+      ],
+      "S": [
+        "Narrow diameter (3.0mm)",
+        "Suitable for limited spaces",
+        "Reduced invasiveness",
+        "Optimal for anterior restorations"
+      ],
+      "M": [
+        "Two-piece system with internal connection",
+        "Platform switching capability",
+        "Various prosthetic options",
+        "Suitable for multiple clinical scenarios"
+      ],
+      "P": [
+        "Designed for post-extraction sockets",
+        "Progressive thread design",
+        "Enhanced initial stability",
+        "Optimized for immediate placement protocols"
+      ],
+      "C": [
+        "Short implant body (5-8mm)",
+        "Wide diameter for load distribution",
+        "Ideal for reduced bone height",
+        "Minimizes need for bone augmentation"
+      ],
+      "BS": [
+        "Basal implant design",
+        "Utilizes cortical bone for stability",
+        "Suitable for advanced atrophy cases",
+        "Allows for immediate loading protocols"
+      ],
+      "B": [
+        "Versatile basal screw design",
+        "Excellent stability in poor bone quality",
+        "Wide range of available lengths",
+        "Simplified surgical protocol"
+      ]
+    },
+    "toolsDescription": "Specialized instruments designed for precise and efficient implant placement and restoration.",
+    "surgicalKit": "Surgical Instrument Kit",
+    "surgicalKitDescription": "Comprehensive set of drills, drivers, and accessories for all ROOTT implant placement procedures.",
+    "prostheticTools": "Prosthetic Instruments",
+    "prostheticToolsDescription": "Specialized tools for impression taking, prosthetic component placement, and final restoration.",
+    "qualityTitle": "Exceptional Surface Quality",
+    "qualityDescription": "ROOTT implants undergo rigorous quality testing to ensure the highest standards of purity and performance.",
+    "analysisTitle": "Scientific Validation",
+    "analysisDescription": "Independent studies confirm that ROOTT implants feature a surface free of contamination, promoting optimal osseointegration.",
+    "manufacturingTitle": "Advanced Manufacturing Process",
+    "guidesTitle": "OPEN SURGICAL GUIDES FOR DENTAL APPLICATIONS",
+    "guidesDescription": "Precision-guided implant placement using the latest digital planning technology.",
+    "certificationsTitle": "Certifications & Quality Assurance",
+    "certificationsDescription": "ROOTT implants meet the highest international standards for medical devices and dental implants."
+  },
+  "about": {
+    "title": "About Farmamedical",
+    "description1": "Farmamedical distributes premium dental solutions, specializing in Roott Implant Systems for dental professionals.",
+    "description2": "We work with leading dental suppliers to deliver high-quality products that meet stringent standards.",
+    "qualityAssured": {
+      "title": "Quality Assured",
+      "description": "Products meet quality standards and certifications."
+    },
+    "industryRecognized": {
+      "title": "Industry Recognized",
+      "description": "Trusted by dental professionals globally."
+    },
+    "scientificallyBacked": {
+      "title": "Scientifically Backed",
+      "description": "Supported by research and clinical evidence."
+    },
+    "globalPresence": {
+      "title": "Global Presence",
+      "description": "Serving dental professionals across multiple countries."
+    },
+    "founders": "Our Co-founders",
+    "founder1": {
+      "name": "Prof. Dr. Almir Dervišević",
+      "title": "Co-founder",
+      "bio": "Prof. Dr. Dervišević brings over 20 years of clinical expertise in dental implantology and has published numerous research papers on advanced implantation techniques."
+    },
+    "founder2": {
+      "name": "Dr. Edmin Liđan",
+      "title": "Co-founder",
+      "bio": "With a background in both dentistry and business management, Dr. Liđan has built one of the leading dental practices in the USK region."
+    },
+    "founder3": {
+      "name": "Dr. Amer Bukvić",
+      "title": "Co-founder",
+      "bio": "Dr. Bukvić leads our educational initiatives and is dedicated to training the next generation of implantologists with innovative techniques and protocols."
+    }
+  },
+  "technology": {
+    "title": "Advanced Technology",
+    "subtitle": "Roott Implant systems feature modern technology and design for optimal clinical outcomes.",
+    "surfaceTechnology": "Advanced Surface Technology",
+    "surfaceDescription": "Enhanced surface for improved results",
+    "patientCentered": "Patient-Centered Innovation",
+    "patientDescription": "Designed for comfort and success",
+    "acceleratedHealing": {
+      "title": "Improved Healing",
+      "description": "Roott Implants' surface treatment promotes faster integration compared to conventional implants."
+    },
+    "researchBacked": {
+      "title": "Research-Based Design",
+      "description": "The implant design is based on extensive research, ensuring predictable outcomes."
+    },
+    "biocompatible": {
+      "title": "Quality Materials",
+      "description": "Medical-grade materials formulated for optimal integration with natural bone."
+    },
+    "versatile": {
+      "title": "Versatile System",
+      "description": "Adaptable platform for various clinical scenarios and requirements."
+    },
+    "specifications": "Technical Specifications"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is ready to assist you with product information and support.",
+    "headquarters": "Headquarters",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Hours",
+    "customerService": "Customer Service",
+    "technicalSupport": "Technical Support",
+    "weekdays": "Monday - Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "company": "Practice/Company",
+    "message": "Message",
+    "sendMessage": "Send Message"
+  },
+  "footer": {
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "resourcesItems": {
+      "education": "Education",
+      "guides": "Product Guides",
+      "webinars": "Webinars",
+      "support": "Support"
+    },
+    "legal": "Legal",
+    "legalItems": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "compliance": "Compliance"
+    },
+    "copyright": "© 2025 Farmamedical d.o.o. All rights reserved.",
+    "tagline": "Official distributor of Roott Implants and Kerox Dental"
+  },
+  "language": {
+    "en": "English",
+    "de": "German",
+    "bs": "Bosnian"
+  },
+  "partners": {
+    "title": "Our Strategic Partners",
+    "subtitle": "Farmamedical collaborates with industry-leading manufacturers to deliver premium dental solutions across the Balkans region",
+    "exclusive": "Exclusive Dental Distribution Partnerships",
+    "exclusiveDesc": "We maintain exclusive distribution relationships with premium dental manufacturers, ensuring quality products and exceptional support for dental professionals",
+    "trate": "Trate AG - ROOTT Implant Systems",
+    "trateDesc": "Farmamedical is the exclusive distributor of Trate AG's ROOTT Implant Systems in Bosnia and Herzegovina, Croatia, and Serbia. These Swiss-designed implants are renowned for their exceptional surface purity and innovative design.",
+    "kerox": "Kerox Dental - Advanced Ceramics",
+    "keroxDesc": "As the authorized distributor for Kerox Dental products, Farmamedical offers high-quality zirconia discs, ceramic blanks, and specialized materials for dental laboratories and CAD/CAM systems throughout the Balkans region",
+    "advantage": "The Farmamedical Distribution Advantage",
+    "advantageDesc": "Through our strategic partnerships, we offer comprehensive solutions and support to dental professionals",
+    "become": "Become a Partner",
+    "becomeDesc": "Are you a dental manufacturer looking for distribution in the Balkans region?",
+    "certifications": "Quality Certifications",
+    "certificationsDesc": "All our partner products meet the highest international standards and certifications"
+  },
+  "education": {
+    "title": "Educational Events & Symposiums",
+    "subtitle": "Expand your knowledge and skills with our comprehensive educational events focused on dental implantology and advanced techniques",
+    "upcomingEvents": "View Upcoming Events",
+    "customTraining": "Request Custom Training",
+    "programs": "View All Educational Programs"
+  },
+  "events": {
+    "title": "Educational Events & Symposiums",
+    "subtitle": "Expand your knowledge and skills with our comprehensive educational events focused on dental implantology and advanced techniques.",
+    "featured": "Featured Event",
+    "featuredDesc": "Our highlighted educational opportunity",
+    "upcoming": "Upcoming Events",
+    "upcomingDesc": "Enhance your professional skills with our specialized educational programs",
+    "speakers": "Key Speakers:",
+    "programs": "Our Educational Programs",
+    "programsDesc": "We offer various formats to meet your professional development needs",
+    "workshops": "Workshops",
+    "workshopsDesc": "Hands-on sessions with small groups, focusing on practical skills and techniques. Perfect for mastering specific procedures.",
+    "symposiums": "Symposiums",
+    "symposiumsDesc": "Larger events featuring expert presentations, panel discussions, and networking opportunities. Ideal for staying current with industry trends.",
+    "clinical": "Clinical Training",
+    "clinicalDesc": "Multi-day intensive programs with comprehensive theoretical knowledge and supervised practical application on patients.",
+    "custom": "Request Custom Training",
+    "customDesc": "We offer customized educational programs tailored to your team's specific needs. Contact us to discuss your requirements and goals.",
+    "contact": "Contact Information",
+    "contactDesc": "For inquiries about upcoming events or to request custom training:"
+  },
+  "roott": {
+    "title": "ROOTT Dental Implants",
+    "subtitle": "ROOTT Implants offers the greatest variety of dental implants amongst the major dental implant providers. Working with the leading Dental Professional community, ROOTT has extended its implant range to offer solutions to potentially avoid bone grafting",
+    "completeSystem": "The Complete Implant System",
+    "completeSystemDesc": "ROOTT offers one-piece implants with an innovative 15 degree bendable neck. The extra flexibility aids Practitioners to improve the positioning to create a parallel to the crest and anchorage to the atrophied bone. These implants provide solutions that may have not been possible without preparatory bone restoration work",
+    "perfectFit": "Perfect Fit, No Movement",
+    "perfectFitDesc": "ROOTT implants are designed to provide exceptional primary stability with tight tolerances that ensure there's no gap and no movement, resulting in better integration and long-term success",
+    "coldWeld": "Cold Weld Technology",
+    "coldWeldDesc": "The innovative cold weld connection in ROOTT implants creates a secure, bacteria-free seal between the implant and abutment, reducing the risk of peri-implantitis and ensuring long-term stability",
+    "multiUnit": "ROOTT IMPLANT System: One Platform Multi-unit",
+    "practitioners": "ROOTT – Best Choice for Practitioners",
+    "practitionersDesc": "The ROOTT Implant system has been designed with the Practitioner at the forefront of the design. ROOTT has sought to simplify implantology, improving primary anchorage, reducing healing times and saving Dental Practitioners time",
+    "toolbox": "Toolbox Design",
+    "toolboxDesc": "The toolbox has been carefully designed to assist Practitioners follow a simple step-by-step graphical guide. Following through the steps, Practitioners should achieve a strong anchorage and lower the risk of failure",
+    "compatibility": "Compatibility",
+    "compatibilityDesc": "The tools follow a visual guide aligned with different types of implants, providing compatible tooling across the majority of the implant range, leading to fewer tools",
+    "colorCoding": "Color Coding System",
+    "colorCodingDesc": "ROOTT's color coding system understands the challenges of working with numerous components in implantology. The carefully color-coded accessories make it easier for Practitioners to help ensure they are working with the correct component",
+    "technology": "ROOTT Implant Technology",
+    "technologyDesc": "Explore the innovative features and benefits of ROOTT implant systems",
+    "primaryStability": "Excellent Primary Stability",
+    "primaryStabilityDesc": "ROOTT implants are designed to achieve excellent primary stability for predictable outcomes",
+    "conicalConnection": "Conical Connection",
+    "conicalConnectionDesc": "The deep conical connection ensures a secure, bacteria-free seal between implant and abutment",
+    "extraThin": "Extra Thin and Strong",
+    "extraThinDesc": "ROOTT implants feature optimized wall thickness for strength without compromising design",
+    "narrowRidge": "Ideal for Narrow Ridge",
+    "narrowRidgeDesc": "Specially designed for challenging cases with limited bone width in narrow ridge areas",
+    "screwRetained": "Fully Screw-Retained Prosthetics",
+    "screwRetainedDesc": "Multiple screw-retained prosthetic options for secure and retrievable restorations",
+    "multifunctional": "Multifunctional Design",
+    "multifunctionalDesc": "Versatile components that adapt to various clinical scenarios and requirements",
+    "solutions": "Comprehensive Implant Solutions",
+    "solutionsDesc": "ROOTT offers a complete range of implant types designed for specific clinical requirements and anatomical situations",
+    "tools": "ROOTT Surgical Tools",
+    "toolsDesc": "Precision-engineered surgical tools designed for efficient and predictable implant placement",
+    "kit": "TRS-S Toolkit",
+    "kitDesc": "All tools have their own reserved spot in a neat and tidy toolbox. The well-organized design ensures that practitioners can easily identify and access the required instruments during surgical procedures",
+    "healingAbutments": "Healing Abutments",
+    "healingAbutmentsDesc": "ROOTT offers a comprehensive range of healing abutments in various heights and diameters to optimize soft tissue contouring and ensure excellent aesthetic outcomes for each individual case",
+    "manufacturing": "Trust in TRATE Manufacturing",
+    "manufacturingDesc": "ROOTT brand of dental Implants is manufactured by TRATE, which has an international team of experienced open-minded professionals who love what they are doing and apply their knowledge for creating safe high-quality products",
+    "qms": "Quality Management System",
+    "qmsDesc": "TRATE operates on the quality management system based on EU MDR 2017/745. Products are certified in compliance with the provisions of the European Medical Device Regulation 2017/745",
+    "rnd": "Research & Development",
+    "rndDesc": "TRATE Research & Development department works closely with highly skilled specialists to ensure ROOTT Implants are well designed, giving practitioners the reassurance they are working with an amazing range of products",
+    "brochure": "Get Detailed Product Information",
+    "brochureDesc": "Download our comprehensive product brochure for complete information about the ROOTT Implant System",
+    "certification": "Certifications & Quality Assurance",
+    "certificationDesc": "ROOTT implants meet the highest international standards for medical devices and dental implants",
+    "contact": "Contact Our ROOTT Specialist Team",
+    "contactDesc": "Get expert advice on ROOTT implant systems and learn how they can enhance your clinical outcomes and practice efficiency"
+  },
+  "kerox": {
+    "title": "Kerox Dental",
+    "subtitle": "Premium zirconia materials and solutions for dental laboratories and CAD/CAM milling centers",
+    "quote": "Setting the standard for high-quality dental zirconia materials with exceptional esthetics and durability.",
+    "about": "About Kerox Dental",
+    "aboutDesc": "Founded in 2002, Kerox Dental has become a leading manufacturer of high-quality dental materials, specializing in zirconia solutions for CAD/CAM applications.",
+    "excellence": "Excellence in Dental Ceramics",
+    "excellenceDesc": "Based in Hungary, Kerox Dental has established itself as an innovator in the field of dental ceramics. Their state-of-the-art manufacturing facility produces premium zirconia materials that are distributed to dental laboratories worldwide.",
+    "productLine": "KEROX Zircostar® Product Line",
+    "productLineDesc": "Premium zirconia solutions designed for optimal esthetics and performance",
+    "multilayer": "Multilayer Blanks",
+    "monolithic": "Monolithic Blanks",
+    "science": "SCIENCE AND TECHNOLOGY BEHIND ZIRCOSTAR®",
+    "scienceDesc": "Understanding the advanced materials science that makes Kerox zirconia exceptional",
+    "basics": "Back to Scientific Basics",
+    "quality": "Quality Management",
+    "certifications": "Kerox Certifications",
+    "certificationsDesc": "Meeting the highest international standards for quality and safety",
+    "advanced": "Advanced Manufacturing",
+    "advancedDesc": "Kerox Dental's state-of-the-art manufacturing facility in Hungary employs the latest technology and quality control processes to ensure consistent, high-quality zirconia products.",
+    "support": "Technical Support & Education",
+    "supportDesc": "We provide comprehensive support for dental laboratories working with Kerox materials",
+    "request": "Request Kerox Product Information",
+    "requestDesc": "Contact Farmamedical for detailed information about Kerox zirconia products, technical specifications, and pricing."
+  },
+  "eventDetails": {
+    "back": "Back to Events",
+    "about": "View Details",
+    "topics": "Key Topics",
+    "schedule": "Event Schedule",
+    "speakers": "Featured Speakers",
+    "options": "Registration Options",
+    "registerNow": "Register Now",
+    "share": "Share This Event",
+    "location": "Event Location",
+    "moreInfo": "Need More Information?",
+    "moreInfoDesc": "Download the complete event brochure with detailed information about speakers, sessions, venue, and accommodations.",
+    "download": "Download Event Brochure",
+    "questions": "Have Questions?",
+    "contact": "Contact our education coordinator for more information"
+  }
+}
