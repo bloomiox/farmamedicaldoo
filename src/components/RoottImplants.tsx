@@ -52,7 +52,7 @@ const RoottImplants: React.FC = () => {
       code: 'C',
       name: 'ROOTT C',
       color: 'bg-yellow-500',
-      image: 'https://roottimplants.co.uk/wp-content/uploads/2022/10/ROOTT-C-small-v2-e1666785957760-68x300.jpg',
+      image: 'https://trate.com/wp-content/uploads/2017/10/C3018.02.png',
       description: t('roottImplants.descriptions.C'),
       features: t('roottImplants.features.C', { returnObjects: true })
     }
