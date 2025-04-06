@@ -13,6 +13,7 @@ import Compliance from './components/Compliance';
 import RoottImplants from './components/RoottImplants';
 import Education from './components/Education';
 import EventDetails from './components/EventDetails';
+import News from './components/News';
 import Partners from './components/Partners';
 import EducationExcerpt from './components/EducationExcerpt';
 import KeroxDental from './components/KeroxDental';
@@ -56,6 +57,7 @@ function App() {
           <Route path="/kerox-dental" element={<KeroxDental />} />
           <Route path="/education" element={<Education />} />
           <Route path="/event-details/:id" element={<EventDetails />} />
+          <Route path="/news" element={<News />} />
           <Route path="/partners" element={<Partners />} />
         </Routes>
         <Footer />
