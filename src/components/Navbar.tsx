@@ -209,6 +209,12 @@ const Navbar: React.FC = () => {
               >
                 {t('nav.education')}
               </Link>
+              <Link 
+                to="/news" 
+                className={`inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-900 border-b-2 ${isActive('/news') ? 'border-[#add15a]' : 'border-transparent hover:border-[#add15a]'}`}
+              >
+                News
+              </Link>
               <a 
                 href={getNavigationLink('contact')}
                 className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-900 border-b-2 border-transparent hover:border-[#add15a]"
@@ -294,6 +300,12 @@ const Navbar: React.FC = () => {
               className={`block pl-3 pr-4 py-2 text-base font-medium ${isActive('/education') ? 'bg-gray-50 text-gray-900' : 'text-gray-700 hover:bg-gray-50 hover:text-gray-900'}`}
             >
               {t('nav.education')}
+            </Link>
+            <Link 
+              to="/news"
+              className={`block pl-3 pr-4 py-2 text-base font-medium ${isActive('/news') ? 'bg-gray-50 text-gray-900' : 'text-gray-700 hover:bg-gray-50 hover:text-gray-900'}`}
+            >
+              News
             </Link>
             <a 
               href={getNavigationLink('contact')}
