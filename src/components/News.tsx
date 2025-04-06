@@ -34,30 +34,57 @@ const News: React.FC = () => {
     ],
     gallery: [
       {
-        url: "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-        caption: "Advanced implant techniques demonstration"
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-06d08ed6e1b845e02308b0fe5e14a42d-V.jpg",
       },
       {
-        url: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-        caption: "Hands-on workshop sessions"
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-0ad4bc5465caf39b71b588102164e7cc-V.jpg",
       },
       {
-        url: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-        caption: "Interactive learning environment"
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-25a2d787bb56164c5773e3e3cfc8926c-V.jpg",
       },
       {
-        url: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-        caption: "State-of-the-art facilities"
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-2ff0403828bbd2fe17cf3cfca3109032-V.jpg",
       },
       {
-        url: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-        caption: "Professional networking opportunities"
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-3d2f9e1b6a119b971e66cb6a20db146c-V.jpg",
       },
-      {
-        url: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-        caption: "Expert-led presentations"
-      }
-    ],
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-46814b41c2d795e606af80e66fcfa0b3-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-4a9a0cc91e0b4c5448b6778d53a6a921-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-4b92d8503dcf88d9f2206b927b715431-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-4cec83bb1f7f164ea4a3f66788d6aea5-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-6ad7db77a438f6b21997acfcb08d00c8-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-796469e4659ba618c49184c2fafe060f-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-b777241e4e16de2b0c6a065fcc6afccf-V.jpg",
+      },
+            {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-bc2ed03800d2cad2151f1a43142beb4d-V.jpg",
+      },
+              {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-d476574e8f63a6f333ac0d65c02eb17d-V.jpg",
+      },
+              {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-e056e231779bef8b250edd4537cfa82b-V.jpg",
+      },
+                  {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-fced353fea159401d7ee0eac7c703b9d-V.jpg",
+      },
+                  {
+        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/video-e616fac5d973f3c7837b8b601f5f1d48-V.mp4",
+      },
+          ],
   };
 
   return (
