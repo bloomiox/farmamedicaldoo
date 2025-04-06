@@ -40,9 +40,6 @@ const News: React.FC = () => {
         url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-0ad4bc5465caf39b71b588102164e7cc-V.jpg",
       },
       {
-        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-25a2d787bb56164c5773e3e3cfc8926c-V.jpg",
-      },
-      {
         url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-2ff0403828bbd2fe17cf3cfca3109032-V.jpg",
       },
       {
@@ -80,9 +77,6 @@ const News: React.FC = () => {
       },
                   {
         url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/IMG-fced353fea159401d7ee0eac7c703b9d-V.jpg",
-      },
-                  {
-        url: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/video-e616fac5d973f3c7837b8b601f5f1d48-V.mp4",
       },
           ],
   };
@@ -126,7 +120,7 @@ const News: React.FC = () => {
         </div>
 
         {/* Speakers Grid */}
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">Featured Speakers</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-6">Predavači</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
           {newsArticle.speakers.map((speaker, index) => (
             <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden">
@@ -144,7 +138,7 @@ const News: React.FC = () => {
         </div>
 
         {/* Gallery */}
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">Event Gallery</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-6">Slike sa simpozija</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
           {newsArticle.gallery.map((image, index) => (
             <div key={index} className="relative group">
