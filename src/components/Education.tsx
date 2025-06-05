@@ -22,12 +22,9 @@ const Education: React.FC = () => {
         "Mr. sci. dr. Slobodan Trninić"
       ],
       topics: [
-        "The One Piece Implants",
-        "Tissue level implants with Multiunits",
-        "Two piece implants - Theory & Prosthetical options",
-        "Indications & Contraindication",
-        "Treatment options in the atrophied bone",
-        "CBCT Guided Implantology"
+        "Faze rada u implanto-protetskoj terapiji",
+        "Implantacijske tehnike",
+        "Osnove planiranja u implanto-protetskoj terapiji",
       ]
     },
        {
