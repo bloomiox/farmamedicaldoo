@@ -33,7 +33,7 @@ const EventDetails: React.FC = () => {
   "date": "14.06.2025",
   "location": "Hotel Hills Sarajevo, Bosnia and Herzegovina",
   "language": "Bosnian",
-  "image": "/mnt/data/20250605_111429.jpg",
+  "image": "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/20250605_111429.jpg",
   "description": "Jednodnevni kurs posvećen osnovama implantološke terapije i protetike kroz teorijski i praktični rad. Kurs vode Prof. Dr. Almir Dervišević i Mr. sci. dr. Slobodan Trninić.",
   "speakers": ["Prof. Dr. Almir Dervišević", "Mr. sci. dr. Slobodan Trninić"],
   "topics": [
