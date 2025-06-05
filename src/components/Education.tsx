@@ -10,39 +10,47 @@ const Education: React.FC = () => {
     {
       id: 1,
       featured: true,
-      title: t('educationEvents.symposium.title'),
-      subtitle: t('educationEvents.symposium.subtitle'),
-      date: t('educationEvents.symposium.date'),
-      location: t('educationEvents.symposium.location'),
-      language: t('educationEvents.symposium.language'),
-      image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-      description: t('educationEvents.symposium.description'),
-      speakers: ["Dr. Henri Diederich", "Dr. Sci. dr. Prohić Samir", "Prof. Dr. Almir Dervišević", "Assistent prof. dr. Dino Dizdarevic"],
-      topics: ["The One Piece Implants", "Tissue level implants with Multiunits", "Two piece implants - Theory & Prosthetical options", "Indications & Contraindication", "Treatment options in the atrophied bone", "CBCT Guided Implantology"]
+      title: "Advanced Implantology Course with Live Surgery",
+      subtitle: "Comprehensive Training in Modern Implant Techniques",
+      date: "05.06.2025",
+      location: "Farmamedical Education Center, Novi Travnik",
+      language: "English",
+      image: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/20250605_111429.jpg",
+      description: "Join us for an intensive hands-on course featuring live surgery demonstrations and advanced implantology techniques. Learn from experienced practitioners and gain practical experience with the latest ROOTT implant systems.",
+      speakers: ["Prof. Dr. Almir Dervišević", "Dr. Henri Diederich", "Dr. Sci. dr. Prohić Samir", "Dr. Ibrahim Hasić"],
+      topics: [
+        "Advanced Implant Placement Techniques",
+        "Complex Case Management",
+        "Live Surgery Demonstrations",
+        "Hands-on Training with ROOTT Implants",
+        "Digital Workflow Integration",
+        "Soft Tissue Management",
+        "Immediate Loading Protocols"
+      ]
     },
     {
       id: 2,
       featured: false,
-      title: t('educationEvents.workshop.title'),
-      subtitle: t('educationEvents.workshop.subtitle'),
-      date: t('educationEvents.workshop.date'),
-      location: t('educationEvents.workshop.location'),
-      language: t('educationEvents.workshop.language'),
+      title: "Digital Dentistry Workshop",
+      subtitle: "Advanced CAD/CAM Techniques for Implant Prosthetics",
+      date: "15.05.2025",
+      location: "Farmamedical Education Center, Novi Travnik",
+      language: "Bosnian/English",
       image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-      description: t('educationEvents.workshop.description'),
+      description: "A hands-on workshop exploring the latest in digital dentistry techniques. Learn how to integrate CAD/CAM technology into your implant workflow for improved efficiency and outcomes.",
       speakers: ["Dr. Maja Petrović", "Dr. Thomas Schmidt"],
       topics: ["Digital Impression Techniques", "CAD Design for Implant Crowns", "Material Selection for Milling", "Full-Arch Digital Solutions"]
     },
     {
       id: 3,
       featured: false,
-      title: t('educationEvents.masterclass.title'),
-      subtitle: t('educationEvents.masterclass.subtitle'),
-      date: t('educationEvents.masterclass.date'),
-      location: t('educationEvents.masterclass.location'),
-      language: t('educationEvents.masterclass.language'),
+      title: "Clinical Masterclass",
+      subtitle: "Soft Tissue Management Around Implants",
+      date: "22-23.06.2025",
+      location: "Dental Academy Sarajevo",
+      language: "English",
       image: "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-      description: t('educationEvents.masterclass.description'),
+      description: "This masterclass focuses on techniques for optimal soft tissue management around dental implants for superior aesthetic outcomes.",
       speakers: ["Prof. Dr. Anna Müller", "Dr. Ibrahim Hasić"],
       topics: ["Gingival Biotypes", "Surgical Techniques", "Impression Methods", "Provisional Restorations", "Emergence Profile Design"]
     }
@@ -93,7 +101,7 @@ const Education: React.FC = () => {
                 </div>
                 <div className="p-8 md:w-3/5">
                   <div className="uppercase tracking-wide text-sm text-[#add15a] font-semibold mb-1">{t('events.featured')}</div>
-                  <h3 className="text-2xl font-bold text-gray-900 mb-2">{featuredEvent.title}</h3>
+                  <h3 className="mt-1 text-2xl font-bold text-gray-900 mb-2">{featuredEvent.title}</h3>
                   <h4 className="text-lg text-gray-700 mb-4">{featuredEvent.subtitle}</h4>
                   
                   <div className="flex flex-wrap gap-3 text-gray-600 mb-6">
