@@ -10,6 +10,29 @@ const Education: React.FC = () => {
     {
       id: 1,
       featured: true,
+      title: t('Osnovni hirurško-protetski kurs'),
+      subtitle: t('Šta treba znati o implantatima u kliničkom radu'),
+      date: t('14.06.2025'),
+      location: t('educationEvents.symposium.location'),
+      language: t('educationEvents.symposium.language'),
+      image: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/20250605_111429.jpg",
+      description: t('educationEvents.symposium.description'),
+      speakers: [
+        "Prof. Dr. Almir Dervišević",
+        "Mr. sci. dr. Slobodan Trninić"
+      ],
+      topics: [
+        "The One Piece Implants",
+        "Tissue level implants with Multiunits",
+        "Two piece implants - Theory & Prosthetical options",
+        "Indications & Contraindication",
+        "Treatment options in the atrophied bone",
+        "CBCT Guided Implantology"
+      ]
+    },
+       {
+      id: 2,
+      featured: false,
       title: t('educationEvents.symposium.title'),
       subtitle: t('educationEvents.symposium.subtitle'),
       date: t('educationEvents.symposium.date'),
@@ -33,7 +56,7 @@ const Education: React.FC = () => {
       ]
     },
     {
-      id: 2,
+      id: 3,
       featured: false,
       title: t('educationEvents.workshop.title'),
       subtitle: t('educationEvents.workshop.subtitle'),
@@ -51,7 +74,7 @@ const Education: React.FC = () => {
       ]
     },
     {
-      id: 3,
+      id: 4,
       featured: false,
       title: t('educationEvents.masterclass.title'),
       subtitle: t('educationEvents.masterclass.subtitle'),
