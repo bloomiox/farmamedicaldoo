@@ -8,14 +8,14 @@ const EducationExcerpt: React.FC = () => {
   
   const featuredEvent = {
     id: 1,
-    title: t('educationEvents.symposium.title'),
-    subtitle: t('educationEvents.symposium.subtitle'),
-    date: t('educationEvents.symposium.date'),
-    location: t('educationEvents.symposium.location'),
-    language: t('educationEvents.symposium.language'),
-    image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
-    description: t('educationEvents.symposium.description'),
-    speakers: ["Dr. Henri Diederich", "Dr. Sci. dr. Prohić Samir", "Prof. Dr. Almir Dervišević", "Assistent prof. dr. Dino Dizdarevic"],
+    title: t('Osnovni hirurško-protetski kurs'),
+      subtitle: t('Šta treba znati o implantatima u kliničkom radu'),
+      date: t('14.06.2025'),
+      location: t('educationEvents.symposium.location'),
+      language: t('educationEvents.symposium.language'),
+      image: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/20250605_111429.jpg",
+      description: t('educationEvents.symposium.description'),
+    speakers: ["Prof. Dr. Almir Dervišević", "Assistent prof. dr. Dino Dizdarevic"],
   };
   
   return (
