@@ -15,7 +15,7 @@ const EducationExcerpt: React.FC = () => {
       language: t('educationEvents.symposium.language'),
       image: "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/20250605_111429.jpg",
       description: t('educationEvents.symposium.description'),
-    speakers: ["Prof. Dr. Almir Dervišević", "Assistent prof. dr. Dino Dizdarevic"],
+    speakers: ["Prof. Dr. Almir Dervišević", "Mr. sci. dr. Slobodan Trninić"],
   };
   
   return (
