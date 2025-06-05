@@ -270,6 +270,9 @@ const EventDetails: React.FC = () => {
     } else if (speakerName.includes("Dino")) {
       return "https://ssst.edu.ba/assets/photos/person/big/1731943033-doc-dr-dino-dizdarevic.jpg?v1731943033";
     }
+     } else if (speakerName.includes("Slobodan")) {
+      return "https://pub-205887fed4e24a5a8a1951ccaffd9d81.r2.dev/Picture1.jpg";
+    }
     // Default image if no match
     return "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80";
   };
