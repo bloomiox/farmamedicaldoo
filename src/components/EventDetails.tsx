@@ -26,8 +26,72 @@ const EventDetails: React.FC = () => {
   
   const events: EventDetailData[] = [
     {
-      id: 1,
-      featured: true,
+  "id": 1,
+  "featured": true,
+  "title": "Osnovni hirurško-protetski kurs",
+  "subtitle": "Šta treba znati o implantatima u kliničkom radu",
+  "date": "14.06.2025",
+  "location": "Hotel Hills Sarajevo, Bosnia and Herzegovina",
+  "language": "Bosnian",
+  "image": "/mnt/data/20250605_111429.jpg",
+  "description": "Jednodnevni kurs posvećen osnovama implantološke terapije i protetike kroz teorijski i praktični rad. Kurs vode Prof. Dr. Almir Dervišević i Mr. sci. dr. Slobodan Trninić.",
+  "speakers": ["Prof. Dr. Almir Dervišević", "Mr. sci. dr. Slobodan Trninić"],
+  "topics": [
+    "Faze rade u implanto-protetskoj terapiji",
+    "Implantacijske tehnike - kada i zašto",
+    "Implantološki hirurški protokol",
+    "Osnove planiranja implanto-protetske terapije",
+    "Implanto-protetika, laboratorij",
+    "Radionica - praktični dio"
+  ],
+  "agenda": [
+    { "time": "09:30", "title": "Registracija" },
+    {
+      "time": "10:00",
+      "title": "Faze rade u implanto-protetskoj terapiji",
+      "description": "- pozicija implantata\n- Anatomija gornje i donje vilice\n- CBCT analiza više govori od svakog anatomskog atlasa"
+    },
+    { "time": "11:30", "title": "Kafe pauza" },
+    {
+      "time": "12:00",
+      "title": "Implantacijske tehnike - kada i zašto / Implantološki hirurški protokol",
+      "description": "- jednofazna i dvofazna implantacija\n- imedijatna i odgođena implantacija\n- preoperativno planiranje i priprema\n- priprema ordinacije i pacijenta\n- operativni zahvat\n- ugradnja implantata"
+    },
+    { "time": "14:00", "title": "Ručak" },
+    {
+      "time": "15:00",
+      "title": "Osnove planiranja implanto-protetske terapije / Implanto-protetika, laboratorij",
+      "description": "- Klinički pregled\n- RTG i CT dijagnostika\n- otisak u implantologiji\n- vrste nadogradnji\n- protetski rad na cementiranje i na vijke"
+    },
+    {
+      "time": "Radionica-praktični dio",
+      "title": "Hands-on with 3D jaw models",
+      "description": "- ugradnja implantata na modelu vilice"
+    },
+    { "time": "17:00", "title": "Kafe pauza" },
+    { "time": "17:30", "title": "Certifikati" }
+  ],
+  "pricing": [
+    {
+      "title": "Kurs kotizacija",
+      "price": "KM 390",
+      "features": [
+        "Jednodnevni kurs",
+        "Predavanja i radionica",
+        "Certifikat",
+        "Ručak i osvježenje tokom pauza"
+      ]
+    }
+  ],
+  "contact": {
+    "name": "Adrijana Jukić Sunarić",
+    "phones": ["+387 061 977 977", "+387 061 795 540"],
+    "payment": "Uplata kotizacije na žiro račun Farmamedica: 1862410310817537, ZiraatBank."
+  }
+},
+ {
+      id: 2,
+      featured: false,
       title: "International Symposium",
       subtitle: "Minimal Invasive Treatment options In The Compromised Bone",
       date: "04-05.04.2025",
